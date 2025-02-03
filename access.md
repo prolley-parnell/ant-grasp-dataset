@@ -19,4 +19,4 @@ In the format
 Find the repo here as an example of the code used to parse the inferred data
 
 ## Post-Processed
-see [3D Process]({% post_url 3d_process %})
+See [3D Process](/_posts/3d_process.html) for more information on how the data has been used.
