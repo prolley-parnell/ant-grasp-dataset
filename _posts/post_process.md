@@ -3,6 +3,7 @@ layout: post
 title: Post Processing
 categories:
   - Collection
+sidebar_link: true
 ---
 
 ## SLEAP

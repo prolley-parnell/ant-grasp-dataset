@@ -3,6 +3,7 @@ layout: post
 title: Categorisation
 categories:
   - Collection
+sidebar_link: true
 ---
 
 The videos are separated into 4 categories based on the observed behaviour of interest. In the context 
