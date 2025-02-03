@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 3D Processing
-categories:
-  - Collection
 sidebar_link: true
 ---
 
