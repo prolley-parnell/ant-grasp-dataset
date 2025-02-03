@@ -19,4 +19,5 @@ In the format
 Find the repo here as an example of the code used to parse the inferred data
 
 ## Post-Processed
-See [Masked video frame using SAM2]({% link _posts/3d_process.md %}) to find out more.
+
+[//]: # (See [Masked video frame using SAM2]&#40;{% link _posts/3d_process.md %}&#41; to find out more.)
