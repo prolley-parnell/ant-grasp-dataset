@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 3D Processing
 category: Collection
 ---
