@@ -2,6 +2,7 @@
 layout: page
 title: 3D Processing
 sidebar_link: true
+sidebar_sort_order: 7
 ---
 
 

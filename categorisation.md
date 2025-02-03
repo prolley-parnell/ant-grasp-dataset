@@ -2,6 +2,7 @@
 layout: page
 title: Categorisation
 sidebar_link: true
+sidebar_sort_order: 4
 ---
 
 The videos are separated into 4 categories based on the observed behaviour of interest. In the context 

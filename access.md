@@ -2,6 +2,7 @@
 layout: page
 title: Access
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 
@@ -17,6 +18,3 @@ I will make these available
 
 In the format
 Find the repo here as an example of the code used to parse the inferred data
-
-## Post-Processed
-See [3D Process]({{ "/collection/3d_process" | relative_url }}) for more information on how the data has been used.
