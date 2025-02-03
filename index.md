@@ -2,6 +2,7 @@
 layout: index
 title: About
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 
@@ -21,3 +22,4 @@ This database is a set of videos of untethered ants grasping objects.
 
 
 ## GRASP
+GRASP is a project researching the grasping capabilities of ants for application in robotics.
