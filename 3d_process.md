@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 3D Processing
 sidebar_link: true
 ---

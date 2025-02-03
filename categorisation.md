@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: Categorisation
-categories:
-- Collection
 sidebar_link: true
 ---
 

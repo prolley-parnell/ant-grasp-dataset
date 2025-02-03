@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Post Processing
 sidebar_link: true
 ---
