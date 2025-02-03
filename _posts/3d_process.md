@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 3D Processing
-category: Collection
+categories:
+  - Collection
 ---
 
 

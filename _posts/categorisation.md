@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Categorisation
-category: Collection
+categories:
+  - Collection
 ---
 
 The videos are separated into 4 categories based on the observed behaviour of interest. In the context 

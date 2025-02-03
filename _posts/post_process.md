@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Post Processing
-category: Collection
+categories:
+  - Collection
 ---
 
 ## SLEAP
