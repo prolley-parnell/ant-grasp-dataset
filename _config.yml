@@ -9,3 +9,18 @@ baseurl: '/ant-grasp-dataset'
 author:
   name: Persie Rolley-Parnell
   url: https://prolley-parnell.github.io
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - .gitignore
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
