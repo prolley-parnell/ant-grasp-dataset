@@ -21,3 +21,4 @@ This database is a set of videos of untethered ants grasping objects.
 
 
 ## GRASP
+GRASP is a project researching the grasping capabilities of ants for application in robotics.
