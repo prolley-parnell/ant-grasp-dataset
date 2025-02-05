@@ -5,14 +5,10 @@ description: A detailed instruction set to access a video dataset of Messor Barb
 google_analytics:
 remote_theme: fongandrew/hydeout
 paginate: 3
-baseurl: '/ant-grasp-dataset'
+baseurl: "/ant-grasp-dataset"
 author:
   name: Persie Rolley-Parnell
   url: https://prolley-parnell.github.io
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Makefile
-  - README.md
-  - .gitignore
+plugins:
+  - jekyll-remote-theme
