@@ -1,0 +1,109 @@
+{
+  "reference_bone": [
+    "neck",
+    "thorax"
+  ],
+  "median_reference_length": 1.1924514770507812,
+  "bones_ratios": {
+    "a_R1;a_R2": {
+      "median_ratio": 1.7441209554672241,
+      "mad_ratio": 0.18385100364685059
+    },
+    "a_L1;a_L2": {
+      "median_ratio": 1.791574239730835,
+      "mad_ratio": 0.19460010528564453
+    },
+    "a_L0;a_L1": {
+      "median_ratio": 1.3090940713882446,
+      "mad_ratio": 0.12528645992279053
+    },
+    "a_R0;a_R1": {
+      "median_ratio": 1.2590513229370117,
+      "mad_ratio": 0.12448322772979736
+    },
+    "leg_m_L1;leg_m_L2": {
+      "median_ratio": 3.675801992416382,
+      "mad_ratio": 0.08175253868103027
+    },
+    "leg_m_R1;leg_m_R2": {
+      "median_ratio": 2.396146297454834,
+      "mad_ratio": 0.23203861713409424
+    },
+    "leg_m_R0;thorax": {
+      "median_ratio": 1.1350278854370117,
+      "mad_ratio": 0.1883162260055542
+    },
+    "leg_m_L0;thorax": {
+      "median_ratio": 1.2031832933425903,
+      "mad_ratio": 0.22254571318626404
+    },
+    "leg_m_L0;leg_m_L1": {
+      "median_ratio": 1.5260305404663086,
+      "mad_ratio": 0.17703640460968018
+    },
+    "leg_m_R0;leg_m_R1": {
+      "median_ratio": 1.4966777563095093,
+      "mad_ratio": 0.1646193265914917
+    },
+    "neck;thorax": {
+      "median_ratio": 1.0,
+      "mad_ratio": 0.0
+    },
+    "leg_f_R1;leg_f_R2": {
+      "median_ratio": 2.979741096496582,
+      "mad_ratio": 0.27225208282470703
+    },
+    "leg_f_L1;leg_f_L2": {
+      "median_ratio": 2.979741096496582,
+      "mad_ratio": 0.27225208282470703
+    },
+    "leg_f_L0;leg_f_L1": {
+      "median_ratio": 1.175700306892395,
+      "mad_ratio": 0.22684860229492188
+    },
+    "leg_f_R0;leg_f_R1": {
+      "median_ratio": 1.1826894283294678,
+      "mad_ratio": 0.13285475969314575
+    },
+    "a_L0;neck": {
+      "median_ratio": 1.368175745010376,
+      "mad_ratio": 0.13605976104736328
+    },
+    "a_R0;neck": {
+      "median_ratio": 1.4756819009780884,
+      "mad_ratio": 0.19062721729278564
+    },
+    "m_R0;m_R1": {
+      "median_ratio": 0.41713112592697144,
+      "mad_ratio": 0.09733200073242188
+    },
+    "m_L0;m_L1": {
+      "median_ratio": 0.4085939824581146,
+      "mad_ratio": 0.11665928363800049
+    },
+    "leg_f_R0;thorax": {
+      "median_ratio": 0.9099319577217102,
+      "mad_ratio": 0.1679580807685852
+    },
+    "leg_f_L0;thorax": {
+      "median_ratio": 0.8186004161834717,
+      "mad_ratio": 0.1583593189716339
+    },
+    "m_L0;neck": {
+      "median_ratio": 1.4474773406982422,
+      "mad_ratio": 0.1652129888534546
+    },
+    "m_R0;neck": {
+      "median_ratio": 1.493990421295166,
+      "mad_ratio": 0.18651270866394043
+    },
+    "eye_L;neck": {
+      "median_ratio": 0.9864923357963562,
+      "mad_ratio": 0.16440093517303467
+    },
+    "eye_R;neck": {
+      "median_ratio": 1.177412509918213,
+      "mad_ratio": 0.19092416763305664
+    }
+  }
+}

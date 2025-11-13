@@ -1,0 +1,661 @@
+{
+    "sessions": [
+        {
+            "start": 1723206424.301852,
+            "end": 1723206467.557786,
+            "duration": 43.25593400001526,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4327,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.03251808176131
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4327,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.03251808176131
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4327,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.03251808176131
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4327,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.03251808176131
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4327,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.03251808176131
+                }
+            ]
+        },
+        {
+            "start": 1723206486.413709,
+            "end": 1723206563.798569,
+            "duration": 77.38486003875732,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7739,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00664207603413
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7739,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00664207603413
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7739,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00664207603413
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7739,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00664207603413
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7739,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00664207603413
+                }
+            ]
+        },
+        {
+            "start": 1723206565.013284,
+            "end": 1723206586.460588,
+            "duration": 21.447304010391235,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 2145,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0125702960496
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 2145,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0125702960496
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 2145,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0125702960496
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 2145,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0125702960496
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 2145,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0125702960496
+                }
+            ]
+        },
+        {
+            "start": 1723206588.258765,
+            "end": 1723206639.963734,
+            "duration": 51.70496892929077,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5172,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02907084371289
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5171,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00973034277635
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5172,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02907084371289
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5171,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00973034277635
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5172,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02907084371289
+                }
+            ]
+        },
+        {
+            "start": 1723206641.960506,
+            "end": 1723206697.79473,
+            "duration": 55.834223985672,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5585,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02825509732534
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5585,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02825509732534
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5585,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02825509732534
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5585,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02825509732534
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 5585,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02825509732534
+                }
+            ]
+        },
+        {
+            "start": 1723206705.496689,
+            "end": 1723206765.702991,
+            "duration": 60.20630192756653,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 6022,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02275189140491
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 6022,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02275189140491
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 6022,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.02275189140491
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 6021,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00614233446512
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 6021,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00614233446512
+                }
+            ]
+        },
+        {
+            "start": 1723206780.298013,
+            "end": 1723206826.914937,
+            "duration": 46.61692404747009,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4663,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0280497969291
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4663,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0280497969291
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4663,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0280497969291
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4663,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0280497969291
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 4663,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.0280497969291
+                }
+            ]
+        },
+        {
+            "start": 1723206834.292472,
+            "end": 1723206849.306062,
+            "duration": 15.013590097427368,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 1502,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.04269400277373
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 1502,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.04269400277373
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 1502,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.04269400277373
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 1502,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.04269400277373
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 1503,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.10930032368104
+                }
+            ]
+        },
+        {
+            "start": 1723206890.14378,
+            "end": 1723206965.407788,
+            "duration": 75.26400804519653,
+            "hardware_triggered": true,
+            "cameras": [
+                {
+                    "idx": 0,
+                    "name": "avocado",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7527,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00796124862214
+                },
+                {
+                    "idx": 1,
+                    "name": "coconut",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7527,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00796124862214
+                },
+                {
+                    "idx": 2,
+                    "name": "banana",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7527,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00796124862214
+                },
+                {
+                    "idx": 3,
+                    "name": "strawberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7527,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00796124862214
+                },
+                {
+                    "idx": 4,
+                    "name": "blueberry",
+                    "width": 1440,
+                    "height": 1080,
+                    "exposure": 4800,
+                    "gain": 0.0,
+                    "gamma": 1.0,
+                    "black_level": 1.0,
+                    "frames": 7527,
+                    "framerate_theoretical": 100,
+                    "framerate_actual": 100.00796124862214
+                }
+            ]
+        }
+    ]
+}
