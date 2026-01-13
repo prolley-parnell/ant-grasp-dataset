@@ -1,7 +1,7 @@
 title: Ant Grasp Dataset
-logo:
 tagline: 'A video dataset of ant grasping'
-description: A detailed instruction set to access a video dataset of Messor Barbarus ants grasping objects at 100 FPS.
+favicon_png: "/favicon.png"
+description: A dataset of ant grasping.
 google_analytics:
 remote_theme: fongandrew/hydeout
 paginate: 3

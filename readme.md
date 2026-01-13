@@ -17,7 +17,7 @@ Follow the instructions on the website: [Installing Git LFS](https://docs.github
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/prolley-parnell/ant-grasp-dataset.git
+git clone https://github.com/insectrobotics/ant-grasp-dataset.git
 ```
 
 ### 3. Pull files from LFS
@@ -26,7 +26,12 @@ This line would pull everything (probably don't do this, it's about 8.8GB in tot
 git lfs pull  
 ```
 
-This line would only pull files for the given directory.
+This line would only pull files for the given directory (1.07 GB).
 ```bash
 git lfs pull --include "dataset/Video/240905/240905-1616/*"
+```
+
+Alternatively, this line would only pull all the analysis input and output data available (1.27 GB).
+```bash
+git lfs pull --include "dataset/Data/*"
 ```
