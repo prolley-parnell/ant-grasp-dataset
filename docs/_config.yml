@@ -12,3 +12,7 @@ author:
 
 plugins:
   - jekyll-remote-theme
+
+
+atom_feed:
+  hide: true
