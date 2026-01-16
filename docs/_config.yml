@@ -9,9 +9,11 @@ baseurl: "/ant-grasp-dataset"
 author:
   name: Persie Rolley-Parnell
   url: https://prolley-parnell.github.io
+host:
 
 plugins:
   - jekyll-remote-theme
+  - "jekyll-github-metadata"
 
 
 atom_feed:

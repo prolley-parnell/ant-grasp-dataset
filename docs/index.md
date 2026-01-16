@@ -15,7 +15,7 @@ This database is a set of videos of untethered ants grasping objects.
 - Synchronised
 - Calibration intrinsics and extrinsics
 - 2D Pose Tracking using SLEAP
-- 3D Pose reconstruction using a method published
+- 3D Pose reconstruction using [mokap](https://github.com/FlorentLM/mokap)
 - Written descriptions of behaviour captured on video
 - Labelled according to object interaction category
 
@@ -42,12 +42,43 @@ If you would like to download the full dataset or any part of it, follow the ins
 We've included an example of how this video dataset is being used [here]({{ site.baseurl }}{% link examples.md %}).
 
 
-# Output
+# Dataset
 
 Aside from the large quantity of synchronised videos and verbal descriptions, there are additional features in this dataset.
+Some of the detailed description of the file tree is contained in [readme.txt]({{site.github.repository_url}}/blob/main/dataset/readme.txt).
+
+
+### Annotations
+
+#### Descriptive
+
+The videos are separated into 4 categories based on the observed behaviour of interest. In the context 
+of recording, we were most interested in how the ants approached and sensed an object before grasping it and the influence 
+of the sensing behaviour on the likelihood of grasp success. Therefore, we organised the videos into the following categories:
+
+- ✅✅ Grasped and carried away
+- ✅ Grasped and dropped
+- ☑️ Manipulated or pinched but not grasped
+- ❌ Sensed but not manipulated
+
+
+#### Segmentation
+
+These will be a repo online
+
+
+#### Pose
+
+
+#### Inference and Mask
+
+In the format
+Find the repo here as an example of the code used to parse the inferred data
+
+
 ![object photos]({{ "assets/img/object_photos.png" | relative_url }})
 
-|                                        *3D Pose*                                         |  *Object Mask*   |
+|                                        *2D Pose*                                         |  *Object Mask*   |
 |:----------------------------------------------------------------------------------------:|:----------------:|
 | ![Annotated frame in SLEAP]({{ "/assets/img/sleap_label-24-08-09_1326-cam3-session4.png" | relative_url }}) | ![Masked video frame using SAM2]({{ "/assets/img/seed_mask_24-09-05_1616-cam1-session29.png" | relative_url }}) | 
 

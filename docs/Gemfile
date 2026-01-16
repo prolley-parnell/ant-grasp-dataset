@@ -4,3 +4,4 @@ gem "jekyll"
 gem 'github-pages'
 gem "jekyll-remote-theme"
 gem "jekyll-theme-hydeout", "~> 5.0"
+gem "jekyll-github-metadata"
