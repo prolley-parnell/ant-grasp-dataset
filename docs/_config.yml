@@ -1,7 +1,6 @@
 title: Ant Grasp Dataset
 tagline: 'A video dataset of ant grasping'
-favicon_png: "/favicon.png"
-description: A dataset of ant grasping.
+description: A repository of ant object manipulation videos.
 google_analytics:
 remote_theme: fongandrew/hydeout
 paginate: 3
@@ -9,12 +8,11 @@ baseurl: "/ant-grasp-dataset"
 author:
   name: Persie Rolley-Parnell
   url: https://prolley-parnell.github.io
-host:
+
 
 plugins:
   - jekyll-remote-theme
   - "jekyll-github-metadata"
 
 
-atom_feed:
-  hide: true
+
