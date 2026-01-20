@@ -4,7 +4,8 @@ title: Download
 sidebar_link: true
 sidebar_sort_order: 2
 ---
-# File Structure
+
+The dataset README and some additional information on the file structure is available here: [readme.txt]({{site.github.repository_url}}/blob/main/dataset/readme.txt).
 
 ## How to download files
 
@@ -16,7 +17,7 @@ Follow the instructions on the website: [Installing Git LFS](https://docs.github
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/insectrobotics/ant-grasp-dataset.git
+git clone {{site.github.repository_url}}.git
 ```
 
 ### 3. Pull files from LFS

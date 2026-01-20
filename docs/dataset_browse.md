@@ -6,6 +6,8 @@ sidebar_sort_order: 3
 ---
 {% include datatables.html %}
 
+This table shows the full verbal descriptions of the video dataset, as well as the assigned tags.
+
 {% assign mydata=site.data.dataset_description %}
 
 <table>
