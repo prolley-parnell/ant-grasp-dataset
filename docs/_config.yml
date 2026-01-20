@@ -1,7 +1,6 @@
 title: Ant Grasp Dataset
-logo:
 tagline: 'A video dataset of ant grasping'
-description: A detailed instruction set to access a video dataset of Messor Barbarus ants grasping objects at 100 FPS.
+description: A repository of ant object manipulation videos.
 google_analytics:
 remote_theme: fongandrew/hydeout
 paginate: 3
@@ -10,5 +9,10 @@ author:
   name: Persie Rolley-Parnell
   url: https://prolley-parnell.github.io
 
+
 plugins:
   - jekyll-remote-theme
+  - "jekyll-github-metadata"
+
+
+

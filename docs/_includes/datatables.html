@@ -5,6 +5,8 @@
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add dataTables-->
 <script>
     $(document).ready( function () {
-    $('table.datatable').DataTable();
-    } );
+        var table = $('table.datatable').DataTable();
+    });
 </script>
+
+<!--If the row height is more than 3 lines then create a button to expand or collapse the table-->
